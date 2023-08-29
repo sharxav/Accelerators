@@ -1,7 +1,7 @@
 # Accelerators: Multiplayer 3D Car Racing Game
 Accelerators is a three-dimensional car racing game that offers real-time multiplayer gameplay over a Local Area Network (LAN). Crafted within the Unity Engine and scripted in C#, this game promises an immersive racing experience.
 
-Key Features:<br>
+**Key Features:**<br>
 -Real-Time Multiplayer: Race against friends and competitors in real-time through LAN connectivity, delivering an exhilarating multiplayer experience.<br>
 -Unity Engine: Developed using the powerful Unity Engine, Accelerators boasts stunning graphics and seamless gameplay.<br>
 -Client-Server Architecture: Built on a robust client-server architecture, ensuring smooth communication and interactions between players.<br>
